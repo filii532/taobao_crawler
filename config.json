@@ -1,0 +1,10 @@
+{
+
+  "username":"your_username",
+  "password":"your_password",
+  "category":"糖类",
+  "keyword":"压片糖果",
+  "maxpage":10,
+  "chromepath":"C:/Program Files/Google/Chrome/Application/chrome.exe"
+
+}
