@@ -6,4 +6,3 @@
 + 最终程序将会把爬到的数据保存在以category命名的xlsx文件的keyword工作表中
 + 本项目只是本人的记录，不再维护
 
-# taobao_crawler
